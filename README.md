@@ -1,3 +1,5 @@
+[![Jenkins](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/precise-desktop-amd64_default.svg?style=plastic)]()
+
 ### Introduction
 
 This second programming assignment will require you to write an R
