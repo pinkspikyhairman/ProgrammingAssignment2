@@ -1,5 +1,7 @@
 [![Jenkins](https://img.shields.io/jenkins/s/https/jenkins.qa.ubuntu.com/precise-desktop-amd64_default.svg?style=plastic)]()
 
+[![Jenkins coverage](https://img.shields.io/jenkins/c/https/jenkins.qa.ubuntu.com/address-book-service-utopic-i386-ci.svg?style=plastic)]()
+
 ### Introduction
 
 This second programming assignment will require you to write an R
